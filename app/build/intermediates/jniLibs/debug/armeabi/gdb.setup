@@ -1,0 +1,3 @@
+set solib-search-path G:/down/google/andless/app/src/main/obj/local/armeabi
+source D:/sdk/ndk/prebuilt/common/gdb/common.setup
+directory D:/sdk/ndk/platforms/android-3/arch-arm/usr/include G:/down/google/andless/app/src/main/jni/alac G:/down/google/andless/app/src/main/jni/ape G:/down/google/andless/app/src/main/jni/Android/include_jb D:/sdk/ndk/sources/cxx-stl/system/include G:/down/google/andless/app/src/main/jni/Android/include_jb4_2 G:/down/google/andless/app/src/main/jni/flac G:/down/google/andless/app/src/main/jni/mpc G:/down/google/andless/app/src/main/jni/wav G:/down/google/andless/app/src/main/jni/wv

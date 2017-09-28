@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Errors">
+<item>Ошибка инициализации</item>
+<item>Недопустимый параметр</item>
+<item>Ошибка открытия файла</item>
+<item>Неверный или неподдерживаемый формат файла</item>
+<item>Ошибка опроса конфигурации аудио-драйвера</item>
+<item>Ошибка конфигурирования аудио-драйвера</item>
+<item>Недопустимый аудио буфер</item>
+<item>Ошибка аудио-драйвера</item>
+<item>Ошибка запуска воспроизведения</item>
+<item>Ошибка записи</item>
+<item>Ошибка чтения</item>
+<item>Ошибка декодера</item>
+<item>Неверный временной офсет</item>
+<item>Недостаточно памяти</item>
+<item>Ошибка инициализации</item>
+</string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="app_name">andLess</string>
+    <string name="exiting">Выходим!</string>
+    <string name="noSdCard">SD-карта не найдена, выходим.</string>
+    <string name="quitApp">Выход</string>
+    <string name="quitAppSrv">Остановить службу и выйти</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Поиск"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="strAbout">Android плеер andLess для звуковых файлов без потерь. Дата сборки Feb 22, 2013</string>
+    <string name="strAbout1">О программе</string>
+    <string name="strAdd">Добавить</string>
+    <string name="strAddPlist">Добавить к плейлисту</string>
+    <string name="strAll">Все</string>
+    <string name="strBSettings">Основные настройки</string>
+    <string name="strBadBook">Ошибка в файле закладки</string>
+    <string name="strBadCue">Формат CUE файла неверный или неподдерживаемый</string>
+    <string name="strBadPlist">Пустой или неподдерживаемый плейлист</string>
+    <string name="strBlueTheme">Синяя тема</string>
+    <string name="strCancel">Отмена</string>
+    <string name="strCantInit">Не могу.</string>
+    <string name="strCantRemovePlist">Невозможно удалить старый плейлист</string>
+    <string name="strCantSetup">Ошибка конфигурации интерфейса</string>
+    <string name="strColor">Тема</string>
+    <string name="strCueSrcExt">Ссылка на исходный файл с неподдерживаемым разрешением в CUE файле</string>
+    <string name="strCueTrack">Трек</string>
+    <string name="strCurRow">Строка = </string>
+    <string name="strDelete">Удалить</string>
+    <string name="strDeleted">Удалено</string>
+    <string name="strDown">Вниз</string>
+    <string name="strDownLayout">Кнопки снизу</string>
+    <string name="strDriverMode">Прямой доступ к драйверу</string>
+    <string name="strErrPrefs">Не могу сохранить настройки</string>
+    <string name="strErrSrvIf">Сервером возвращен нулевой binder-интерфейс</string>
+    <string name="strErrSrvZero">Binder ушел при нажатии на кнопку</string>
+    <string name="strFont">Размер шрифта</string>
+    <string name="strHideExt">Не показывать расширений файлов</string>
+    <string name="strHsInsert">Наушники: вкл=продолжение</string>
+    <string name="strHsRemove">Наушники: откл=пауза</string>
+    <string name="strIOError">Ошибка В/В!</string>
+    <string name="strInternalError">Внутренняя ошибка!</string>
+    <string name="strInverse">Светлая тема</string>
+    <string name="strLayout">Компоновка</string>
+    <string name="strMoveToBottom">В конец</string>
+    <string name="strMoveToTop">В начало</string>
+    <string name="strMplayerError">Ошибка медиа-плеера</string>
+    <string name="strNoChg">Плейлист не был изменен, сохранять нечего</string>
+    <string name="strNoCueSrc">Ссылка на несуществующий исходный файл в CUE файле</string>
+    <string name="strNoFiles">Там ничего интересного</string>
+    <string name="strNormal">Темная тема</string>
+    <string name="strPause">Пауза</string>
+    <string name="strPaused">[Пауза]</string>
+    <string name="strPlayAfter">Играть после добавления</string>
+    <string name="strPlaying">[Текущий трек]</string>
+    <string name="strPlaylistName">Имя плейлиста:</string>
+    <string name="strPlaylistPath">Путь к плейлисту:</string>
+    <string name="strQuit">Выход</string>
+    <string name="strRecursive">Рекурсивно</string>
+    <string name="strSave">Сохранить</string>
+    <string name="strSaveBooks">Автосохранение закладок</string>
+    <string name="strSettings">Настройки</string>
+    <string name="strShuffle">Перемешивать все плейлисты</string>
+    <string name="strSrvFail">Сбой сервера!</string>
+    <string name="strSrvInitFail">Ошибка инициализации сервера. Выхожу!</string>
+    <string name="strStopped">[Остановлено]</string>
+    <string name="strTurnOffShuffle">Чтобы редактировать плейлист, сначала отмените режим перемешивания треков в плейлистах!</string>
+    <string name="strUp">Вверх</string>
+    <string name="strUpLayout">Кнопки сверху</string>
+</resources>

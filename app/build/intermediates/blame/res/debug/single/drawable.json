@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_night.xml",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\selector_night.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mp_song_playback.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\ic_mp_song_playback.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rwd_button_off.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\rwd_button_off.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\go_next_32.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\go_next_32.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\folder.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\folder.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slider.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\slider.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s_play.xml",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\s_play.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_quit.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\btn_quit.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\audio1.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\audio1.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\volume_button_off.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\volume_button_off.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s_pause.xml",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\s_pause.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_button_on.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\play_button_on.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar.xml",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\seekbar.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\volume.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\volume.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_icon.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\new_icon.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s_prev.xml",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\s_prev.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playbackstart.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\playbackstart.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\go_up_32.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\go_up_32.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_pause.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\img_pause.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plist.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\plist.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ffwd_button_off.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\ffwd_button_off.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pause_button_on.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\pause_button_on.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_play.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\img_play.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\audio.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\audio.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_button_off.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\play_button_off.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\andless72.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\andless72.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s_next.xml",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\s_next.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector.xml",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cdrom.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\cdrom.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\go_prev_32.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\go_prev_32.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_vol_plus.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\green_vol_plus.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rwd_button_on.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\rwd_button_on.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_on.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\play_on.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_vol_minus.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\green_vol_minus.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ffwd_button_on.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\ffwd_button_on.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playbackpause.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\playbackpause.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vol_plus.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\vol_plus.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vol_minus.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\vol_minus.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pause_button_off.png",
+        "source": "G:\\down\\google\\andless\\app\\src\\main\\res\\drawable\\pause_button_off.png"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\andless\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "G:\\down\\google\\andless\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    }
+]

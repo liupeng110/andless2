@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Errors">
+<item>初始化错误</item>
+<item>无效的参数</item>
+<item>打开文件时出错</item>
+<item>文件损坏或不支持的文件格式</item>
+<item>获取音频配置出错</item>
+<item>设置音频配置出错</item>
+<item>音频缓冲区错误</item>
+<item>音频设置错误</item>
+<item>无法启动音频</item>
+<item>写入错误</item>
+<item>读取错误</item>
+<item>解码器错误</item>
+<item>无效的时间偏移</item>
+<item>内存溢出</item>
+<item>初始化错误</item>
+</string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="app_name">andLess</string>
+    <string name="exiting">退出中!</string>
+    <string name="noSdCard">没有找到SD卡，退出中...</string>
+    <string name="quitApp">退出</string>
+    <string name="quitAppSrv">停止服务 &amp; 退出 </string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="strAbout">andLess Android player for lossless audio files built on Jan 28, 2013</string>
+    <string name="strAbout1">关于</string>
+    <string name="strAdd">添加</string>
+    <string name="strAddPlist">添加到播放列表</string>
+    <string name="strAll">全部 </string>
+    <string name="strBSettings">基本设置</string>
+    <string name="strBadBook">无效的标签文件</string>
+    <string name="strBadCue">CUE文件无法识别或者不支持</string>
+    <string name="strBadPlist">空文件或者无效的播放列表</string>
+    <string name="strBlueTheme">蓝色主题</string>
+    <string name="strCancel">取消</string>
+    <string name="strCantInit">无法初始化，退出！</string>
+    <string name="strCantRemovePlist">无法删除旧播放列表！</string>
+    <string name="strCantSetup">无法安装!</string>
+    <string name="strColor">主题</string>
+    <string name="strCueSrcExt">CUE文件的引用与不支持扩展的源文件</string>
+    <string name="strCueTrack">跟踪</string>
+    <string name="strCurRow">行 = </string>
+    <string name="strDelete">删除</string>
+    <string name="strDeleted">删除</string>
+    <string name="strDown">下</string>
+    <string name="strDownLayout">按钮下</string>
+    <string name="strDriverMode">直接访问硬件</string>
+    <string name="strErrPrefs">无法保存设置参数！</string>
+    <string name="strErrSrvIf">服务器返回空绑定接口</string>
+    <string name="strErrSrvZero">Binder is null on button press</string>
+    <string name="strFont">字体</string>
+    <string name="strHideExt">隐藏文件扩展名</string>
+    <string name="strHsInsert">在HS被插入时恢复</string>
+    <string name="strHsRemove">在HS被删除时暂停</string>
+    <string name="strIOError">I/O错误!</string>
+    <string name="strInternalError">内部错误！</string>
+    <string name="strInverse">明色主题</string>
+    <string name="strLayout">布局</string>
+    <string name="strMoveToBottom">移到底部</string>
+    <string name="strMoveToTop">置顶</string>
+    <string name="strMplayerError">媒体播放器错误 </string>
+    <string name="strNoChg">播放列表不变，没有保存</string>
+    <string name="strNoCueSrc">CUE文件引用不存在的源</string>
+    <string name="strNoFiles">无法进入文件夹...</string>
+    <string name="strNormal">暗色主题</string>
+    <string name="strPause">暂停</string>
+    <string name="strPaused">[已暂停]</string>
+    <string name="strPlayAfter">播放后加入</string>
+    <string name="strPlaying">[播放中]</string>
+    <string name="strPlaylistName">播放列表名称:</string>
+    <string name="strPlaylistPath">播放列表路径:</string>
+    <string name="strQuit">退出</string>
+    <string name="strRecursive">递归！</string>
+    <string name="strSave">保存</string>
+    <string name="strSaveBooks">自动保存标签</string>
+    <string name="strSettings">设置</string>
+    <string name="strShuffle">随机播放所有播放列表</string>
+    <string name="strSrvFail">服务失败!</string>
+    <string name="strSrvInitFail">服务器无法初始化。退出！</string>
+    <string name="strStopped">[已停止]</string>
+    <string name="strTurnOffShuffle">请先关闭随机播放模式！再编辑播放列表，</string>
+    <string name="strUp">上</string>
+    <string name="strUpLayout">按钮上</string>
+</resources>
